@@ -1,4 +1,5 @@
 ![image alt](https://github.com/R451-Nag/Blog-Backend-System/blob/ad2e1a9c56a3ad6824f78b07ceea786b7597aebe/Screenshot%202025-05-09%20194745.png)
+![image alt](https://github.com/R451-Nag/Blog-Backend-System/blob/6282bc482e323a0da866d74a129ea68411d3a479/Screenshot%202025-05-09%20194812.png)
 
 # Blog-Backend-System
 This is a blog backend system built using **Django** and **MySQL**. It allows users to authenticate, create blog posts, and comment on them via a fully functional RESTful API using the Django REST Framework.
