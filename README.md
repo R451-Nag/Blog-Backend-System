@@ -75,3 +75,6 @@ Although MySQL is external to VS Code, it's fully integrated with Django through
 ```bash
 git clone https://github.com/yourusername/blog-backend.git
 cd blog-backend
+
+
+https://github.com/R451-Nag/Blog-Backend-System/blob/ad2e1a9c56a3ad6824f78b07ceea786b7597aebe/Screenshot%202025-05-09%20194745.png
