@@ -1,3 +1,5 @@
+![image alt](https://github.com/R451-Nag/Blog-Backend-System/blob/ad2e1a9c56a3ad6824f78b07ceea786b7597aebe/Screenshot%202025-05-09%20194745.png)
+
 # Blog-Backend-System
 This is a blog backend system built using **Django** and **MySQL**. It allows users to authenticate, create blog posts, and comment on them via a fully functional RESTful API using the Django REST Framework.
 
@@ -76,6 +78,3 @@ Although MySQL is external to VS Code, it's fully integrated with Django through
 git clone https://github.com/yourusername/blog-backend.git
 cd blog-backend
 
-
----
-![image alt](https://github.com/R451-Nag/Blog-Backend-System/blob/ad2e1a9c56a3ad6824f78b07ceea786b7597aebe/Screenshot%202025-05-09%20194745.png)
